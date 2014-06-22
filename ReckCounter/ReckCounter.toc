@@ -1,0 +1,6 @@
+## Interface: 1700
+## Title: ReckCounter
+## Notes: Counts saved reckoning strikes in a combo point gauge.
+## OptionalDeps:
+## Dependencies:
+ReckCounter.xml
